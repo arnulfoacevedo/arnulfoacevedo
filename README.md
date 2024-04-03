@@ -5,7 +5,7 @@ Communication with client is a crucial part of the development and I make it a p
 
 - Backend: 	    Node.js/Nest.js/Express
 - Frontend: 	  React.js/Next.js, Bootstrap/Tailwind/MUI/Antd
-- Data Viz:     D3.js, Chart.js
+- Data Viz:     D3.js, Chart.js, Amchart, Visx
 - API: 		      GraphQL/Apollo, Restful API
 - AI:           GPT-3/GPT-4, DALL-E
 - Database:	    MySQL/Postgre/Mongo
